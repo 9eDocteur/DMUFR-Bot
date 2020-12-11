@@ -2,7 +2,7 @@ module.exports = async(client) => {
 
     client.user.setPresence({
         activity: {
-            name: "DMU FR || The French Community || Bot By 9e_Docteur"
+            name: "HERE IS THE ACTIVITY OF THE BOT (Playing GitHub), YOU CAN CHANGE THIS"
         }
     })
 };
